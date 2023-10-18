@@ -10,7 +10,7 @@ This repository contains a Recipe Recommendation System, a machine learning-base
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Introduction
 
