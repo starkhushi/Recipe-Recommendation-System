@@ -1,8 +1,4 @@
 # Recipe-Recommendation-System
-
-
-![Recipe Recommendation System](images/recipe-system.jpg)
-
 This repository contains a Recipe Recommendation System, a machine learning-based tool designed to provide personalized recipe suggestions to users. Whether you're a novice cook looking for easy-to-follow recipes or a seasoned chef seeking culinary inspiration, this system can help you discover delightful dishes tailored to your preferences.
 
 ## Table of Contents
